@@ -1,0 +1,33 @@
+body {
+    font-family: 'Space Mono' , monospace;
+    color: cornflowerblue;
+    background-color:crimson;
+}
+
+ul {
+    color: blanchedalmond;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+h2 {
+    color: burlywood; font-weight: bold;
+}
+
+.games { color: cadetblue;}
+
+ol {
+    color: aquamarine; 
+    font-size: 14px;
+    font-family: 'Rubik Wet Paint' , cursive;
+}
+
+.header {
+    width: 100%;
+    background-color: cornsilk;
+    color:brown;
+    padding: 10px 0 10px 50px;
+    font-size: 1em;
+    text-align: center;
+}
