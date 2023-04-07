@@ -1,0 +1,72 @@
+/* GLOBAL ARTICLE STYLES */
+
+body {
+
+}
+
+h1 {
+
+text-align: center;
+font-family:'Times New Roman', Times, serif;
+font-weight: bold;
+background-color:skyblue;
+
+}
+
+p {
+	font-family: Anuphan;
+}
+
+h5 {
+	font-weight: bold;
+}
+h6 {
+	font-weight: bold;
+}
+
+.sideB {
+	background-color: skyblue;
+}
+
+.credit {
+	font-style: italic;
+	font-size: small;
+}
+
+.qt {
+	font-size:x-large;
+	font-style: italic;
+}
+.byL {
+	font-size: small;
+}
+.ss {
+	font-size: small;
+
+}
+.subH {
+	font-size:large;
+}
+.bodyCopy {
+	padding: 50px 0 0 0;
+}
+.footerStyle {
+	background-color:skyblue;
+	color: #fff;
+	padding: 12px;
+	height: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
+.rtt {
+	text-align: center;
+	margin-top: 50px;
+}
+.rtt a {
+	color:darkblue;
+	text-decoration: none;
+	font-weight: bold;
+}
+.rtt a:hover {
+	color: #09639c;
+}
